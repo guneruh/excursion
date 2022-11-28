@@ -1,0 +1,33 @@
+
+
+main{ text-align: center
+       }
+h1{ font-family: Verdana; text-align: center; color:white; font-weight: normal; font-size:50px;
+       }
+h2{ font-family: Verdana; text-align: center; color:white; font-weight: 300; font-size:42px;
+         }
+p{ font-family: Verdana; text-align: center; color:gray; font-weight: normal; font-size:21px;
+         }
+a{ font-family: Verdana; text-align: center; color:aquamarine; font-weight: normal; font-size:16px;
+    
+         }
+body {font-family: Verdana; text-align: center; color:white; background-color:black; font-weight: bold; font-size: 1em;
+        
+}
+footer{ font-family: Verdana; text-align: right; color:gray; font-weight: normal; font-size:16px;
+    
+         }
+
+
+
+main table {border:1px solid aquamarine; margin: 0 auto; padding: 5px; border-radius:10px;}
+main th, main td {padding:20px; border: 1px solid aquamarine}
+main th {background-color:darkcyan; color: aquamarine; font-size: 1.2em;}
+main tr:nth-child(odd) {background-color: darkcyan};}
+main tr:nth-child(even) {background-color: darkcyan};color: darkgreen;}
+
+footer {text-align: center; width:100%; background-color:aquamarine; color:darkcyan}
+footer a{color:darkcyan;}
+
+
+    
