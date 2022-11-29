@@ -2,16 +2,17 @@
 
 main{ text-align: center
        }
-h1{ font-family: Verdana; text-align: center; color:white; font-weight: normal; font-size:50px;
+h1{ text-align: center; color:white; font-weight: normal; font-size:50px;
        }
-h2{ font-family: Verdana; text-align: center; color:white; font-weight: 300; font-size:42px;
-         }
-p{ font-family: Verdana; text-align: center; color:gray; font-weight: normal; font-size:21px;
-         }
-a{ font-family: Verdana; text-align: center; color:aquamarine; font-weight: normal; font-size:16px;
-    
-         }
-body {font-family: Verdana; text-align: center; color:white; background-color:black; font-weight: bold; font-size: 1em;
+.header--main{  text-align: center; color:white; font-weight: normal; font-size:50px;}
+
+.link--cta{  text-align: center; color:aquamarine; font-weight: normal; font-size:16px;} 
+
+.header--secondary{ text-align: center; color:white; font-weight: 300; font-size:42px;}
+
+.header--fourth{ text-align: center; color:gray; font-weight: normal; font-size:21px;}
+
+body {font-family: Verdana, Geneva, Tahoma, sans-serif; text-align: center; color:white; background-color:black; font-weight: bold; font-size: 1em;
         
 }
 footer{ font-family: Verdana; text-align: right; color:gray; font-weight: normal; font-size:16px;
